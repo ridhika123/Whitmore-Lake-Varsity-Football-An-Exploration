@@ -29,4 +29,4 @@ We can see that usually the highest percentage of players are seniors, followed 
 The source code can be found here. 
 
 ## Final Output
-Final visualization can be found here.
+Final visualization can be found [here](https://github.com/ridhika123/Whitmore-Lake-Varsity-Football-An-Exploration/blob/main/WhitmoreLakeVarsityFootball.png).
