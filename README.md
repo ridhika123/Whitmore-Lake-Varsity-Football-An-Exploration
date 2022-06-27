@@ -14,6 +14,19 @@ Here are the assignment instructions:
 
 What do we mean by **sports or athletics**?  For this category we are interested in sporting events or athletics broadly, please feel free to creatively interpret the category when building your research question!
 
+## Data
+
+## Discussion
+Question of interest: What is the distribution of grade-levels in varsity level high school football? As explored through Whitmore Lake Trojans.
+
+American varsity sports are a direct gateway to professional athletic careers. Since I did not attend high school in the United States, I was interested to understand a little bit more about the high-school varsity teams. The region I was assigned to explore was Whitmore Lake, Michigan. After much research, I found data on high school athletes who played varsity football. In order to understand the distribution of the kind of players participating in varsity football, I decided to zoom in on the grade-level variable (freshman, sophomore, juniors and seniors).
+
+My visualization explores this research question by plotting a vertically stacked bar-plot with the height corresponding to the number of players in each year. It has color-coded bars into the four categories of the grade-levels. Further, it also displayes the % freshmen, sophomore etc. of the team playing in that year. Thus this visualization shows us the distribution of players in a simple and easy-to-read manner.  
+
+We can see that usually the highest percentage of players are seniors, followed by juniors. This kind-of aligns with our expectations since players who are older, probably are more skilled and physically bigger, which matters a lot in football. There are some years when there are no freshmen on the team, but in 2018, freshmen formed 100% of the team. It is important to note, however, that 2018 and 2012 have very few data points, not enough to form a whole team, which either means that the team did not play that year and just continued practice, or that there is missing data/ players. There was no grade-level data for year 2010.
+
 ## Code
+The source code can be found here. 
 
 ## Final Output
+Final visualization can be found here.
