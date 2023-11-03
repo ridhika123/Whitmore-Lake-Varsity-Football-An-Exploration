@@ -31,3 +31,6 @@ The source code can be found [here](https://github.com/ridhika123/Whitmore-Lake-
 
 ## Final Output
 Final visualization can be found [here](https://github.com/ridhika123/Whitmore-Lake-Varsity-Football-An-Exploration/blob/main/WhitmoreLakeVarsityFootball.png).
+
+## Further Improvement 
+To scale the code, I would replace manual data entering with web-scraping. 
