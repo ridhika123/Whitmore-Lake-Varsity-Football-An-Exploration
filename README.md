@@ -1,4 +1,5 @@
 # Whitmore-Lake-Varsity-Football-An-Exploration
+Assignment from Coursera
 
 ## Prompt
 
